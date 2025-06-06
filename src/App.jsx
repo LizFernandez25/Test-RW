@@ -2,7 +2,7 @@ function App() {
   return (
     <div>
       <h1>Formulario de Registro</h1>
-
+    <hr />
       <form>
         <div>
           <label>Nombre:</label>
@@ -33,7 +33,7 @@ function App() {
           <label>Confirmar contraseña:</label>
           <input type="password" />
         </div>
-
+        <hr />
         <button type="submit">Registrarse</button>
       </form>
     </div>
